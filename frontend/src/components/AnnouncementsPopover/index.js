@@ -278,7 +278,7 @@ export default function AnnouncementsPopover() {
                 <ListItem
                   key={key}
                   style={{
-                    background: key % 2 === 0 ? "#0094bb" : "white",
+                    background: key % 2 === 0 ? "#2bc29c" : "white",
                     border: "1px solid #eee",
                     borderLeft: borderPriority(item.priority),
                     cursor: "pointer",
