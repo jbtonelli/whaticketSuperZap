@@ -1,8 +1,5 @@
 # WhaTicket Versão Saas com Módulo Kanban e Modo Noturno</br>
-Está é uma versão modificada pela licencas.digital da Launcher & Co.</br>
-Desde 23/11/2023 este se tornou um diretório aberto, para uso livre.
-</br>Caso queira fazer uma contribuição, serei muito grato.</br>
-Chave Pix, aleatória, efd3110c-e572-42b5-a6cb-5984a8811ad2.</br>
+
 
 Funcionando com a última versão do Baileys 6.5.0 - Setembro de 2023</br>
 
@@ -31,7 +28,7 @@ Em breve..
 Utilize este instalador:
 
 ```
-https://github.com/launcherbr/instalador.git
+https://github.com/jbtonelli/instalador_whaticket.git
 ```
 
 Siga o arquivo de intruções deste repositório para instalação e fix da biblioteca e do nginx.
